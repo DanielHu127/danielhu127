@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on small games made with Godot
+- 🌱 I’m currently learning how to make a game engine
+- 👯 I’m looking to collaborate with other game developers
+- 🤔 I’m looking for help with low-level programming
+
+
 <!--
 **DanielHu127/danielhu127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
